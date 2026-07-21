@@ -1,0 +1,15 @@
+# Quartus build artifacts
+output_files/
+db/
+incremental_db/
+simulation/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sof
+*.pof
+*.jdi
+*.done
+*.qws
